@@ -1,5 +1,4 @@
 
-
 # Apple-Style Calculator Clone
 
 <img src="https://github.com/user-attachments/assets/01f52dca-5a04-4124-ad50-c2a23eff1726" width="300" />
