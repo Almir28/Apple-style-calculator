@@ -1,6 +1,4 @@
-Here’s a `README.md` template for your GitHub project, including sections for the description, features, screenshots, and instructions:
 
----
 
 # Apple-Style Calculator Clone
 
